@@ -1,0 +1,14 @@
+{
+  "name": "web_font",
+  "version": "1.0.0",
+  "description": "webserverfor Go",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "rohit",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
